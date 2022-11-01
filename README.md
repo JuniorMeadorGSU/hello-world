@@ -2,8 +2,8 @@
 PAssign07
 
 # About me
-**Name:** Junior Meador
-**Age:** 29
-**School:** Georgia Southern University
-**Campus:** Armstrong
-**Major:** Computer Science
+**Name:** Junior Meador<br/>
+**Age:** 29<br/>
+**School:** Georgia Southern University<br/>
+**Campus:** Armstrong<br/>
+**Major:** Computer Science<br/>
